@@ -1,4 +1,4 @@
-*
+/*
  * Libraries
  */
 #include <atmel_start.h>
